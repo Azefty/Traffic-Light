@@ -26,7 +26,7 @@ class TrafficLightSystem {
       pushButton = 4;
 
       t_green = 20000;  // Time for green light
-      t_yellow = 3000;  // Time for yellow light
+      t_yellow = 2000;  // Time for yellow light
       t_red = 20000;  // Time for red light
 
       currentState = 0;
